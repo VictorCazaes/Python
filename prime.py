@@ -1,4 +1,4 @@
-def primo(num):
+def prime(num):
     if num > 1 and not isDivisible(num):
         print(str(num) + " is prime")
     else:
